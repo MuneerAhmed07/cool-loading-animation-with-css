@@ -20,7 +20,7 @@ body {
     box-shadow: 0 0 10px 0 rgba(0, 0,0,.5);
     border-radius: 50%;
     background: linear-gradient(90deg, hsla(35, 79%, 68%, 1) 0%, hsla(286, 44%, 49%, 1) 100%);
-    animation: jump 5s forwards ease-in-out;
+    animation: jump 3s forwards ease-in-out;
     z-index: 2;
 }
 
